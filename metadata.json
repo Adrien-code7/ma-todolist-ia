@@ -1,0 +1,8 @@
+
+{
+  "name": "AI-Powered To-Do List",
+  "description": "A smart to-do list application to manage your tasks, shopping lists, and memos with an integrated AI chat assistant. Organize items into categories, reorder them with drag-and-drop, and interact with your lists using voice commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
